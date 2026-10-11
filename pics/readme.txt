@@ -1,0 +1,1 @@
+Your images can go in this folder.
